@@ -6,7 +6,7 @@
 
 ## Description
 
-This lesson is intended for the practice of blocking, indentation, and spacing as we begin writing code.
+This lesson is intended for the practice of blocking, indentation, and spacing as we begin writing code. Updated with CSS stylings and image insertion.
 
 ## Setup
 
@@ -15,7 +15,7 @@ This lesson is intended for the practice of blocking, indentation, and spacing a
 ## Technologies Used
 
 * HTML
-  CSS
+* CSS
 
 ### Legal
 
